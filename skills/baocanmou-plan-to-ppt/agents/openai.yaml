@@ -1,0 +1,4 @@
+interface:
+  display_name: "策划资料变 PPT | Plans into Presentations"
+  short_description: "用谋术鸣组织品牌提案，保留来源与原生可编辑内容"
+  default_prompt: "Use $baocanmou-plan-to-ppt to turn my planning materials into an editable presentation, preserving sources and assumptions."

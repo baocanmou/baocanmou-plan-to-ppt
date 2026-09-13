@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please credit BaoCanMou and retain the applicable notices."
+type: software
+title: "BaoCanMou: Plans into Presentations / 策划资料变 PPT"
+version: 1.2.0
+date-released: 2026-09-14
+authors:
+  - name: BaoCanMou
+  - family-names: Yi
+    given-names: Huiting
+repository-code: "https://github.com/yht0912/baocanmou-plan-to-ppt"
+url: "https://www.bcmsj.com"
+license: MIT
+abstract: "A sourced presentation workflow with the distinct material scopes described in NOTICE.md."

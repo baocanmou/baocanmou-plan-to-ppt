@@ -1,0 +1,927 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "title": "山间来信冷泡茶试行方案｜谋术鸣应用",
+    "audience": "品牌负责人",
+    "purpose": "确认首次试行的场景、产品、预算和执行分工",
+    "slide_count": 12,
+    "disclosure": "虚构品牌演示 · 包参谋"
+  },
+  "theme": {
+    "paper": "#F4F1E8",
+    "ink": "#183E34",
+    "accent": "#CADD80",
+    "font": "Source Han Sans CN"
+  },
+  "claims": [
+    {
+      "id": "F-budget",
+      "kind": "source",
+      "text": "预算上限6万元，试行周期4周，只测试南昌",
+      "sources": [
+        {
+          "chunk_id": "D9d30a965d5:line:3",
+          "quote": "最终确认：预算上限6万元，试行周期4周，只测试南昌。以上明确替代简报中的9万元和多城市讨论。"
+        }
+      ]
+    },
+    {
+      "id": "F-old",
+      "kind": "source",
+      "text": "早期预算9万元，只是讨论",
+      "sources": [
+        {
+          "chunk_id": "Dbdf8a63051:line:6",
+          "quote": "早期讨论预算9万元，曾计划同时测试三个城市。此条仅为原始讨论记录，后续确认见会议纪要。"
+        }
+      ]
+    },
+    {
+      "id": "F-interview",
+      "kind": "source",
+      "text": "模拟访谈120人；工作日下午54人、午餐之后33人、居家休息21人、通勤途中12人",
+      "sources": [
+        {
+          "chunk_id": "D9d30a965d5:line:7",
+          "quote": "模拟访谈样本共120人，每人只选一个场景；工作日下午54人、午餐之后33人、居家休息21人、通勤途中12人。该便利样本不能外推总体市场。"
+        }
+      ]
+    },
+    {
+      "id": "F-product",
+      "kind": "source",
+      "text": "桂花乌龙和茉莉绿茶，每盒6包",
+      "sources": [
+        {
+          "chunk_id": "Dbdf8a63051:line:4",
+          "quote": "产品：桂花乌龙、茉莉绿茶，两款独立袋泡。现有规格为每盒6包。原料产地和认证尚未提供，不能对外描述资质。"
+        }
+      ]
+    },
+    {
+      "id": "F-price",
+      "kind": "source",
+      "text": "建议售价29元与26元，尚未确认",
+      "sources": [
+        {
+          "chunk_id": "D9d30a965d5:line:5",
+          "quote": "价格：桂花乌龙每盒建议售价29元，茉莉绿茶每盒建议售价26元；都只是待确认的试行价格，尚未正式销售。"
+        }
+      ]
+    },
+    {
+      "id": "F-channel",
+      "kind": "source",
+      "text": "两家合作办公空间允许试饮，自有小红书账号可发布内容",
+      "sources": [
+        {
+          "chunk_id": "D9d30a965d5:line:4",
+          "quote": "资源：两家合作办公空间允许安排试饮；自有小红书账号可发布内容。合作方名称与流量数据未提供。"
+        }
+      ]
+    },
+    {
+      "id": "F-quote",
+      "kind": "source",
+      "text": "下午想喝点有味道的，但不想再点一杯很甜的饮料。",
+      "sources": [
+        {
+          "chunk_id": "D9d30a965d5:line:8",
+          "quote": "模拟访谈原话甲：下午想喝点有味道的，但不想再点一杯很甜的饮料。"
+        }
+      ]
+    },
+    {
+      "id": "F-roles",
+      "kind": "source",
+      "text": "负责人确认产品与预算，运营负责执行和记录，设计负责信息与物料",
+      "sources": [
+        {
+          "chunk_id": "D9d30a965d5:line:6",
+          "quote": "职责：品牌负责人确认产品与预算；运营负责试饮、内容和记录；设计负责包装信息、活动物料和内容模板。"
+        }
+      ]
+    },
+    {
+      "id": "F-allocation",
+      "kind": "source",
+      "text": "预算建议包含试饮、内容、打样、渠道和预备费用",
+      "sources": [
+        {
+          "chunk_id": "D6e35a5c860:row:2",
+          "quote": "试饮执行 | 15000 | 样品与现场执行"
+        },
+        {
+          "chunk_id": "D6e35a5c860:row:3",
+          "quote": "内容素材 | 16000 | 拍摄与图文制作"
+        },
+        {
+          "chunk_id": "D6e35a5c860:row:4",
+          "quote": "包装打样 | 9000 | 验证信息与印刷效果"
+        },
+        {
+          "chunk_id": "D6e35a5c860:row:5",
+          "quote": "渠道测试 | 12000 | 小范围内容与触达实验"
+        },
+        {
+          "chunk_id": "D6e35a5c860:row:6",
+          "quote": "预备费用 | 8000 | 应对试行调整"
+        }
+      ]
+    },
+    {
+      "id": "P-focus",
+      "kind": "proposal",
+      "text": "建议先围绕工作日下午的小范围试饮建立产品认知"
+    },
+    {
+      "id": "P-expression",
+      "kind": "proposal",
+      "text": "建议品牌表达：给下午留一点清爽；以品类和简单冲泡信息为先"
+    },
+    {
+      "id": "P-visual",
+      "kind": "proposal",
+      "text": "建议以清浅茶色、自然绿与留白表达轻松的工作日饮茶"
+    },
+    {
+      "id": "P-test",
+      "kind": "proposal",
+      "text": "建议记录试饮反馈、内容互动与再次购买意愿；样本不足先不扩量"
+    },
+    {
+      "id": "P-week",
+      "kind": "proposal",
+      "text": "建议按确认资料、准备物料、试饮观察、复盘调整推进四周试行"
+    },
+    {
+      "id": "F-intent",
+      "kind": "source",
+      "text": "品牌希望消费者在工作日下午喝到简单、清爽的茶，避免复杂冲泡仪式",
+      "sources": [
+        {
+          "chunk_id": "Dbdf8a63051:line:5",
+          "quote": "品牌想法：希望消费者能在工作日下午喝到一杯简单、清爽的茶。避免传统茶礼风格，不强调复杂冲泡仪式。"
+        }
+      ]
+    },
+    {
+      "id": "P-value",
+      "kind": "proposal",
+      "text": "价值观建议：让日常饮茶更简单",
+      "sources": [
+        {
+          "chunk_id": "Dbdf8a63051:line:5",
+          "quote": "品牌想法：希望消费者能在工作日下午喝到一杯简单、清爽的茶。避免传统茶礼风格，不强调复杂冲泡仪式。"
+        }
+      ]
+    },
+    {
+      "id": "P-mission",
+      "kind": "proposal",
+      "text": "使命建议：让办公室人群轻松喝上一杯茶",
+      "sources": [
+        {
+          "chunk_id": "Dbdf8a63051:line:5",
+          "quote": "品牌想法：希望消费者能在工作日下午喝到一杯简单、清爽的茶。避免传统茶礼风格，不强调复杂冲泡仪式。"
+        }
+      ]
+    },
+    {
+      "id": "U-vision",
+      "kind": "unknown",
+      "text": "长期愿景尚待创始人访谈确认"
+    },
+    {
+      "id": "U-competition",
+      "kind": "unknown",
+      "text": "没有竞品证据与真实试饮，场景差异和产品支撑仍待核验"
+    },
+    {
+      "id": "P-channels",
+      "kind": "proposal",
+      "text": "先在办公空间试饮，用同一套产品说明与广告语制作小红书场景内容，收集看懂程度、问题和尝试意愿，再决定扩大投入"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "budget-version",
+      "claim_ids": [
+        "F-old",
+        "F-budget"
+      ],
+      "resolution": "负责人确认明确替代早期讨论，采用6万元、4周、南昌"
+    }
+  ],
+  "slides": [
+    {
+      "id": "S01",
+      "title": "把一杯冷泡茶\n放进工作日的下午",
+      "layout": "cover",
+      "purpose": "说明本次品牌试行主题",
+      "claim_ids": [
+        "P-focus"
+      ],
+      "eyebrow": "山间来信 · 谋术鸣应用示范",
+      "lead": "让定位、设计和传播围绕同一个品牌信念",
+      "image": {
+        "path": "assets/tea-hero.png",
+        "alt": "虚构冷泡茶概念场景",
+        "source": "OpenAI image generation，虚构产品示意",
+        "fit": "cover"
+      },
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S02",
+      "title": "以价值观为中心，贯通谋、术、鸣",
+      "layout": "framework",
+      "purpose": "说明价值观中心如何指引定位、设计和传播，标明输入缺口",
+      "claim_ids": [
+        "F-budget",
+        "F-intent",
+        "P-value",
+        "P-mission",
+        "U-vision",
+        "P-focus"
+      ],
+      "lead": "先用有限的范围，换来一次可判断的试行",
+      "columns": [
+        {
+          "heading": "谋｜定位",
+          "text": "先验证工作日下午\n冷泡茶的具体需要\n差异仍需竞品证据"
+        },
+        {
+          "heading": "术｜设计",
+          "text": "先讲清品类和口味\n再表达日常轻松感\n在真实使用中检验"
+        },
+        {
+          "heading": "鸣｜传播",
+          "text": "用同一表达做试饮\n再转为场景内容\n依据反馈决定放大"
+        }
+      ],
+      "required_text": [
+        "知｜价值观中心",
+        "谋｜定位",
+        "术｜设计",
+        "鸣｜传播",
+        "预算上限6万元",
+        "南昌试行4周",
+        "长期愿景：待创始人访谈确认"
+      ],
+      "center": {
+        "heading": "知｜价值观中心",
+        "text": "价值观建议：让日常饮茶更简单\n使命建议：让办公室人群轻松喝上一杯茶\n长期愿景：待创始人访谈确认"
+      },
+      "disclosure": "工作假设稿，价值观与使命为建议，愿景待确认；南昌试行4周，预算上限6万元",
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S03",
+      "title": "谋｜下午场景值得优先验证",
+      "layout": "chart",
+      "purpose": "解释首个场景选择的依据与范围",
+      "claim_ids": [
+        "F-interview",
+        "P-focus"
+      ],
+      "lead": "54人\n选择工作日下午",
+      "body": [
+        "在这组模拟样本中，\n该场景被选择得最多。",
+        "先验证使用体验，\n不据此推算市场规模。"
+      ],
+      "chart": {
+        "type": "bar",
+        "unit": "人",
+        "categories": [
+          "工作日下午",
+          "午餐之后",
+          "居家休息",
+          "通勤途中"
+        ],
+        "series": [
+          {
+            "name": "选择人数",
+            "values": [
+              54,
+              33,
+              21,
+              12
+            ]
+          }
+        ],
+        "bindings": [
+          {
+            "series": 0,
+            "index": 0,
+            "value": 54,
+            "claim_id": "F-interview",
+            "chunk_id": "D9d30a965d5:line:7",
+            "quote": "工作日下午54人",
+            "label": "工作日下午"
+          },
+          {
+            "series": 0,
+            "index": 1,
+            "value": 33,
+            "claim_id": "F-interview",
+            "chunk_id": "D9d30a965d5:line:7",
+            "quote": "午餐之后33人",
+            "label": "午餐之后"
+          },
+          {
+            "series": 0,
+            "index": 2,
+            "value": 21,
+            "claim_id": "F-interview",
+            "chunk_id": "D9d30a965d5:line:7",
+            "quote": "居家休息21人",
+            "label": "居家休息"
+          },
+          {
+            "series": 0,
+            "index": 3,
+            "value": 12,
+            "claim_id": "F-interview",
+            "chunk_id": "D9d30a965d5:line:7",
+            "quote": "通勤途中12人",
+            "label": "通勤途中"
+          }
+        ],
+        "totals": [
+          {
+            "series": 0,
+            "expected": 120
+          }
+        ]
+      },
+      "disclosure": "模拟便利样本 n=120，每人单选；不能外推总体市场",
+      "required_text": [
+        "54人"
+      ],
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S04",
+      "title": "谋｜先把定位三问说清楚",
+      "layout": "editorial",
+      "purpose": "回答定位三问并将差异假设与已知事实分开",
+      "claim_ids": [
+        "F-product",
+        "F-interview",
+        "P-focus",
+        "U-competition"
+      ],
+      "lead": "先形成可验证的定位方向",
+      "body": [
+        "把“工作日下午的一杯茶”讲具体，比泛泛地说“年轻化”更容易展开产品沟通。"
+      ],
+      "tone": "light",
+      "disclosure": "定位为工作假设；没有竞品与真实试饮证据，不能认定独有优势",
+      "columns": [
+        {
+          "heading": "你是什么",
+          "text": "面向办公室人群的\n日常冷泡茶\n从工作日下午切入"
+        },
+        {
+          "heading": "有何不同",
+          "text": "先聚焦轻松饮茶\n这是场景差异假设\n尚待竞品材料核验"
+        },
+        {
+          "heading": "何以见得",
+          "text": "已有两款产品设定\n模拟访谈提示需求\n真实试饮尚未验证"
+        }
+      ],
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S05",
+      "title": "首批聚焦两款茶",
+      "layout": "table",
+      "purpose": "用产品组合和清楚的规格信息承接冷泡茶定位",
+      "claim_ids": [
+        "F-product",
+        "F-price",
+        "P-focus"
+      ],
+      "lead": "先让顾客看懂是什么，再说明怎么选择",
+      "table": {
+        "rows": [
+          [
+            "产品",
+            "规格",
+            "建议售价",
+            "信息重点"
+          ],
+          [
+            "桂花乌龙",
+            "每盒6包",
+            "29元",
+            "茶底与桂花香"
+          ],
+          [
+            "茉莉绿茶",
+            "每盒6包",
+            "26元",
+            "茶底与茉莉香"
+          ]
+        ],
+        "widths": [
+          330,
+          245,
+          220,
+          341
+        ],
+        "fontSize": 26,
+        "bindings": [
+          {
+            "row": 1,
+            "column": 1,
+            "value": "每盒6包",
+            "claim_id": "F-product",
+            "chunk_id": "Dbdf8a63051:line:4",
+            "quote": "产品：桂花乌龙、茉莉绿茶，两款独立袋泡。现有规格为每盒6包。原料产地和认证尚未提供，不能对外描述资质。",
+            "label": "桂花乌龙"
+          },
+          {
+            "row": 1,
+            "column": 2,
+            "value": "29元",
+            "claim_id": "F-price",
+            "chunk_id": "D9d30a965d5:line:5",
+            "quote": "桂花乌龙每盒建议售价29元",
+            "label": "桂花乌龙"
+          },
+          {
+            "row": 2,
+            "column": 1,
+            "value": "每盒6包",
+            "claim_id": "F-product",
+            "chunk_id": "Dbdf8a63051:line:4",
+            "quote": "产品：桂花乌龙、茉莉绿茶，两款独立袋泡。现有规格为每盒6包。原料产地和认证尚未提供，不能对外描述资质。",
+            "label": "茉莉绿茶"
+          },
+          {
+            "row": 2,
+            "column": 2,
+            "value": "26元",
+            "claim_id": "F-price",
+            "chunk_id": "D9d30a965d5:line:5",
+            "quote": "茉莉绿茶每盒建议售价26元",
+            "label": "茉莉绿茶"
+          }
+        ]
+      },
+      "body": [
+        "包装文案与冲泡说明，在产品资料确认后定稿。"
+      ],
+      "disclosure": "售价为试行建议，尚未确认或形成销售记录",
+      "required_text": [
+        "29元",
+        "26元"
+      ],
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S06",
+      "title": "术｜让定位变成一句清楚的话",
+      "layout": "statement",
+      "purpose": "呈现品牌表达建议及使用范围",
+      "claim_ids": [
+        "P-expression",
+        "P-focus",
+        "F-intent"
+      ],
+      "lead": "给下午留一点清爽",
+      "body": [
+        "先说清冷泡茶，再说明口味、规格和冲泡方式。",
+        "这句创意承接简单、清爽的饮茶方向；需要在试饮中检验是否被理解。"
+      ],
+      "disclosure": "广告语为团队创意建议，不冒充用户原话或已验证表达",
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S07",
+      "title": "术｜设计先完成认知任务",
+      "layout": "image",
+      "purpose": "让设计选择与使用场景对应",
+      "claim_ids": [
+        "P-visual",
+        "P-expression",
+        "P-focus"
+      ],
+      "lead": "先看懂冷泡茶\n再记住日常轻松感",
+      "columns": [
+        {
+          "heading": "颜色",
+          "text": "自然绿搭配清浅茶色\n保留轻松、克制的气质"
+        },
+        {
+          "heading": "信息",
+          "text": "先看懂冷泡茶\n再看到口味和冲泡方式"
+        },
+        {
+          "heading": "版面",
+          "text": "给核心信息留空间\n减少次要卖点争抢"
+        }
+      ],
+      "disclosure": "AI生成的包装概念示意；信息和结构待产品资料确认后深化",
+      "body": [
+        "品类、口味与冲泡信息优先，\n让定位变成清楚的阅读顺序。",
+        "自然绿与茶色是表达建议，\n仍需实物与使用场景验证。"
+      ],
+      "image": {
+        "path": "assets/tea-packaging.png",
+        "alt": "虚构冷泡茶包装视觉方向示意",
+        "source": "OpenAI image generation，虚构概念示意，非印刷稿",
+        "fit": "contain"
+      },
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S08",
+      "title": "鸣｜让同一表达进入两个场景",
+      "layout": "editorial",
+      "purpose": "选择与现有资源匹配的渠道",
+      "claim_ids": [
+        "F-channel",
+        "P-focus",
+        "P-channels",
+        "P-expression"
+      ],
+      "lead": "先用已有资源验证，再决定是否扩大投入",
+      "columns": [
+        {
+          "heading": "办公空间试饮",
+          "text": "使用产品说明与冲泡卡\n记录何时喝、如何选择\n收集问题和推荐原话"
+        },
+        {
+          "heading": "小红书场景内容",
+          "text": "共用广告语与产品信息\n呈现工作日下午场景\n记录理解与尝试意愿"
+        }
+      ],
+      "disclosure": "渠道资源来自演示设定；触达与转化尚未验证",
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S09",
+      "title": "6万元支持试饮与表达验证",
+      "layout": "table",
+      "purpose": "核对预算分配与总额",
+      "claim_ids": [
+        "F-budget",
+        "F-allocation"
+      ],
+      "lead": "每笔投入对应一项能够回收的信息",
+      "table": {
+        "rows": [
+          [
+            "项目",
+            "金额（元）",
+            "用途"
+          ],
+          [
+            "试饮执行",
+            "15000",
+            "样品与现场执行"
+          ],
+          [
+            "内容素材",
+            "16000",
+            "拍摄与图文制作"
+          ],
+          [
+            "包装打样",
+            "9000",
+            "验证信息与印刷效果"
+          ],
+          [
+            "渠道测试",
+            "12000",
+            "小范围内容与触达实验"
+          ],
+          [
+            "预备费用",
+            "8000",
+            "应对试行调整"
+          ]
+        ],
+        "widths": [
+          310,
+          250,
+          576
+        ],
+        "fontSize": 24,
+        "totals": [
+          {
+            "column": 1,
+            "rows": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "expected": 60000
+          }
+        ],
+        "bindings": [
+          {
+            "row": 1,
+            "column": 1,
+            "value": "15000",
+            "claim_id": "F-allocation",
+            "chunk_id": "D6e35a5c860:row:2",
+            "quote": "试饮执行 | 15000 | 样品与现场执行",
+            "label": "试饮执行"
+          },
+          {
+            "row": 2,
+            "column": 1,
+            "value": "16000",
+            "claim_id": "F-allocation",
+            "chunk_id": "D6e35a5c860:row:3",
+            "quote": "内容素材 | 16000 | 拍摄与图文制作",
+            "label": "内容素材"
+          },
+          {
+            "row": 3,
+            "column": 1,
+            "value": "9000",
+            "claim_id": "F-allocation",
+            "chunk_id": "D6e35a5c860:row:4",
+            "quote": "包装打样 | 9000 | 验证信息与印刷效果",
+            "label": "包装打样"
+          },
+          {
+            "row": 4,
+            "column": 1,
+            "value": "12000",
+            "claim_id": "F-allocation",
+            "chunk_id": "D6e35a5c860:row:5",
+            "quote": "渠道测试 | 12000 | 小范围内容与触达实验",
+            "label": "渠道测试"
+          },
+          {
+            "row": 5,
+            "column": 1,
+            "value": "8000",
+            "claim_id": "F-allocation",
+            "chunk_id": "D6e35a5c860:row:6",
+            "quote": "预备费用 | 8000 | 应对试行调整",
+            "label": "预备费用"
+          }
+        ]
+      },
+      "disclosure": "预算建议合计60000元；投放效果与销售收入尚未发生",
+      "required_text": [
+        "60000元"
+      ],
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S10",
+      "title": "鸣｜四周完成首轮验证",
+      "layout": "table",
+      "purpose": "把建议变为各方能启动的工作",
+      "claim_ids": [
+        "F-budget",
+        "F-roles",
+        "P-week"
+      ],
+      "lead": "每一周都留下可供下一步使用的结果",
+      "table": {
+        "rows": [
+          [
+            "阶段",
+            "本周完成",
+            "主要负责"
+          ],
+          [
+            "第1周",
+            "确认产品、口径与物料范围",
+            "品牌负责人"
+          ],
+          [
+            "第2周",
+            "准备打样、内容与记录表",
+            "设计与运营"
+          ],
+          [
+            "第3周",
+            "开展试饮，整理反馈",
+            "运营"
+          ],
+          [
+            "第4周",
+            "复盘产品、表达与渠道",
+            "品牌负责人及团队"
+          ]
+        ],
+        "widths": [
+          210,
+          646,
+          280
+        ],
+        "fontSize": 24,
+        "bindings": [
+          {
+            "row": 1,
+            "column": 0,
+            "value": "第1周",
+            "claim_id": "P-week",
+            "label": "第1周"
+          },
+          {
+            "row": 2,
+            "column": 0,
+            "value": "第2周",
+            "claim_id": "P-week",
+            "label": "第2周"
+          },
+          {
+            "row": 3,
+            "column": 0,
+            "value": "第3周",
+            "claim_id": "P-week",
+            "label": "第3周"
+          },
+          {
+            "row": 4,
+            "column": 0,
+            "value": "第4周",
+            "claim_id": "P-week",
+            "label": "第4周"
+          }
+        ]
+      },
+      "disclosure": "推进安排为建议；实际日期由项目启动时间确定",
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S11",
+      "title": "复盘回到定位、表达与用户回应",
+      "layout": "editorial",
+      "purpose": "说明试行如何影响后续决策",
+      "claim_ids": [
+        "P-test"
+      ],
+      "lead": "用反馈检查：品牌信念是否落实到实际体验",
+      "columns": [
+        {
+          "heading": "定位是否成立",
+          "text": "记录具体试饮评价\n核对场景与购买理由\n补齐差异化证据"
+        },
+        {
+          "heading": "表达是否清楚",
+          "text": "看用户能否说清\n这是什么产品\n为什么适合自己"
+        },
+        {
+          "heading": "传播是否有回应",
+          "text": "分清好评与尝试意愿\n收集用户自己的话\n再决定扩大或调整"
+        }
+      ],
+      "disclosure": "此页为后续验证计划，不是已经取得的效果",
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    },
+    {
+      "id": "S12",
+      "title": "今天先确认三件事",
+      "layout": "closing",
+      "purpose": "形成具体可启动的决策",
+      "claim_ids": [
+        "F-budget",
+        "F-product",
+        "F-roles",
+        "P-value",
+        "P-mission",
+        "U-vision"
+      ],
+      "body": [
+        "确认价值观与使命建议，补齐愿景访谈",
+        "确认两款产品资料、定位依据和待定价格",
+        "确认南昌、4周、6万元，以及首轮试饮分工"
+      ],
+      "lead": "把第一次试行做清楚，再决定下一步",
+      "tone": "dark",
+      "disclosure": "价值观、使命与定位为建议；愿景与支撑证据待确认",
+      "method_attribution": "方法依据：谋术鸣® 品牌定位设计模型｜易慧庭·包参谋",
+      "required_text": [
+        "方法依据：谋术鸣® 品牌定位设计模型｜易慧庭·包参谋"
+      ],
+      "notes": "方法依据：谋术鸣® 品牌定位设计模型，易慧庭·包参谋。知为价值观中心；谋定定位，术转译为设计与表达，鸣形成传播与反馈。本案为缺少全案前置材料的虚构应用示范。"
+    }
+  ],
+  "methodology": {
+    "id": "moushuming",
+    "content_version": "4.0",
+    "mode": "hypothesis",
+    "inputs": {
+      "assessment_claim_ids": [],
+      "source_card_claim_ids": [],
+      "founder_claim_ids": []
+    },
+    "center": {
+      "value_claim_ids": [
+        "P-value"
+      ],
+      "mission_claim_ids": [
+        "P-mission"
+      ],
+      "vision_claim_ids": [
+        "U-vision"
+      ],
+      "slide_ids": [
+        "S02"
+      ]
+    },
+    "mao": [
+      {
+        "id": "M01",
+        "claim_ids": [
+          "P-focus",
+          "F-product",
+          "F-interview",
+          "U-competition"
+        ],
+        "slide_ids": [
+          "S03",
+          "S04"
+        ],
+        "category": "冷泡茶",
+        "difference": "办公室下午的轻松饮茶场景是假设，尚未证明独有差异",
+        "proof": "产品设定可查；模拟访谈只能提示需求，竞品与真实试饮待补"
+      }
+    ],
+    "shu": [
+      {
+        "id": "D01",
+        "mao_id": "M01",
+        "claim_ids": [
+          "P-expression"
+        ],
+        "slide_ids": [
+          "S06"
+        ],
+        "task": "把冷泡茶定位变成清楚的产品语言与创意",
+        "perception": "先看懂产品，再理解工作日下午场景",
+        "scene": "包装阅读与试饮说明"
+      },
+      {
+        "id": "D02",
+        "mao_id": "M01",
+        "claim_ids": [
+          "P-visual"
+        ],
+        "slide_ids": [
+          "S07"
+        ],
+        "task": "按品类、口味、冲泡信息安排视觉层次",
+        "perception": "看懂并记住简单轻松的日常饮茶方向",
+        "scene": "概念示意，真实包装与办公场景待验证"
+      }
+    ],
+    "ming": [
+      {
+        "id": "C01",
+        "mao_id": "M01",
+        "shu_ids": [
+          "D01",
+          "D02"
+        ],
+        "claim_ids": [
+          "P-channels",
+          "F-channel"
+        ],
+        "slide_ids": [
+          "S08"
+        ],
+        "audience": "办公室饮茶人群",
+        "channel": "两家合作办公空间",
+        "content": "统一的产品说明、冲泡卡与表达",
+        "rhythm": "准备物料后试饮，再汇总反馈",
+        "feedback": "使用场景、具体问题和推荐原话"
+      },
+      {
+        "id": "C02",
+        "mao_id": "M01",
+        "shu_ids": [
+          "D01",
+          "D02"
+        ],
+        "claim_ids": [
+          "P-channels",
+          "F-channel"
+        ],
+        "slide_ids": [
+          "S08"
+        ],
+        "audience": "工作日下午有饮茶需要的人",
+        "channel": "自有小红书账号",
+        "content": "共用广告语与产品信息的场景内容",
+        "rhythm": "跟随四周试行，先验证再决定扩大",
+        "feedback": "信息理解、尝试意愿与用户回应"
+      }
+    ]
+  }
+}

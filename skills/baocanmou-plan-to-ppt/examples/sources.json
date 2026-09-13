@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "documents": [
+    {
+      "id": "Dbdf8a63051",
+      "name": "01_客户简报.md",
+      "sha256": "085279897f4a8f549fac3cf30c839a454170b198edf7904b8b25d0b4f0ef8561",
+      "format": ".md"
+    },
+    {
+      "id": "Dfce3375dcf",
+      "name": "02_模拟访谈.csv",
+      "sha256": "b9809171f7b7982eb668a2ebfa3bd843874b60dceca6ecb9313e7aaee933e3de",
+      "format": ".csv"
+    },
+    {
+      "id": "D9d30a965d5",
+      "name": "03_负责人确认.md",
+      "sha256": "08877c681b3538ad8679d9a6fc8d26e6c317d2c54110cd2a23f19db3e6ef2e7f",
+      "format": ".md"
+    },
+    {
+      "id": "D6e35a5c860",
+      "name": "04_预算建议.csv",
+      "sha256": "99af0059e84227ee8ad44b80ce2b27bf0b7f2464167cfb1258100dc5c83158ca",
+      "format": ".csv"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "Dbdf8a63051:line:1",
+      "document_id": "Dbdf8a63051",
+      "sha256": "b4be23bcbb799ee1a56557bd6bac8864138f447eadd511fa6a8d5f8bd1a2fdc5",
+      "locator": "line:1",
+      "text": "# 山间来信｜冷泡茶试行简报",
+      "kind": "text"
+    },
+    {
+      "id": "Dbdf8a63051:line:2",
+      "document_id": "Dbdf8a63051",
+      "sha256": "d50469dba900275e72d15fbf533af98badfc0f59caeed9204ce017610772d9d0",
+      "locator": "line:2",
+      "text": "本资料为虚构品牌演示，所有访谈和经营数据均为模拟，不是真实市场调查。",
+      "kind": "text"
+    },
+    {
+      "id": "Dbdf8a63051:line:3",
+      "document_id": "Dbdf8a63051",
+      "sha256": "51fd8b08254061b53ecea79e4730ae8b5ab2849190125bab8e88ca9831dafbb1",
+      "locator": "line:3",
+      "text": "项目：山间来信冷泡茶，面向在办公室工作的年轻消费者。此次提案用于确认首次试行范围，不涉及加盟招商。",
+      "kind": "text"
+    },
+    {
+      "id": "Dbdf8a63051:line:4",
+      "document_id": "Dbdf8a63051",
+      "sha256": "fb4715d080f5944168966b38f445c6d8bd301c004a256a10284d7c5cbb1a8c7e",
+      "locator": "line:4",
+      "text": "产品：桂花乌龙、茉莉绿茶，两款独立袋泡。现有规格为每盒6包。原料产地和认证尚未提供，不能对外描述资质。",
+      "kind": "text"
+    },
+    {
+      "id": "Dbdf8a63051:line:5",
+      "document_id": "Dbdf8a63051",
+      "sha256": "8b86e33b9c5c4d19ba76c976bdcbed6b410fb5283e25f62fbca7f4f7c74616ff",
+      "locator": "line:5",
+      "text": "品牌想法：希望消费者能在工作日下午喝到一杯简单、清爽的茶。避免传统茶礼风格，不强调复杂冲泡仪式。",
+      "kind": "text"
+    },
+    {
+      "id": "Dbdf8a63051:line:6",
+      "document_id": "Dbdf8a63051",
+      "sha256": "00e1231308c11e4b4830cef58b78065644ab9dd3469a2f482941a4640df0dda9",
+      "locator": "line:6",
+      "text": "早期讨论预算9万元，曾计划同时测试三个城市。此条仅为原始讨论记录，后续确认见会议纪要。",
+      "kind": "text"
+    },
+    {
+      "id": "Dbdf8a63051:line:7",
+      "document_id": "Dbdf8a63051",
+      "sha256": "d40254541b4917b3e0db4ebab7398e0fab92f9a0f4b78dd27164a8be917e9ce4",
+      "locator": "line:7",
+      "text": "希望提案能讲清楚：先服务谁、卖什么、在哪里试、钱花在哪、什么时候决定继续。",
+      "kind": "text"
+    },
+    {
+      "id": "Dfce3375dcf:row:1",
+      "document_id": "Dfce3375dcf",
+      "sha256": "3cb5b287322f91537a60f17c974408beff0cdc373524bf62d4cad7203be57cbe",
+      "locator": "row:1",
+      "text": "场景 | 人数",
+      "cells": [
+        "场景",
+        "人数"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "Dfce3375dcf:row:2",
+      "document_id": "Dfce3375dcf",
+      "sha256": "98c6bb7bb84a38df5cb21991ff22404a81f172e388a7b5e19dca01fc34834ae0",
+      "locator": "row:2",
+      "text": "工作日下午 | 54",
+      "cells": [
+        "工作日下午",
+        "54"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "Dfce3375dcf:row:3",
+      "document_id": "Dfce3375dcf",
+      "sha256": "c161c0c4704ba55f0a97e86d9c8189074a93a0db25e915eaf985166795c03338",
+      "locator": "row:3",
+      "text": "午餐之后 | 33",
+      "cells": [
+        "午餐之后",
+        "33"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "Dfce3375dcf:row:4",
+      "document_id": "Dfce3375dcf",
+      "sha256": "3c373d81a79f6b72f15c4e7bdae35b4ee8c94ebea67aebc0363e552252bc7ba4",
+      "locator": "row:4",
+      "text": "居家休息 | 21",
+      "cells": [
+        "居家休息",
+        "21"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "Dfce3375dcf:row:5",
+      "document_id": "Dfce3375dcf",
+      "sha256": "cf829583762ae2465e49c47faf1d1f5036d83eaaf987276dc07a443ece1b3c17",
+      "locator": "row:5",
+      "text": "通勤途中 | 12",
+      "cells": [
+        "通勤途中",
+        "12"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "D9d30a965d5:line:1",
+      "document_id": "D9d30a965d5",
+      "sha256": "02a9fb2dd4c562017f1c4e3c8820d002543c8a313026878f5bf9a170405f3e2e",
+      "locator": "line:1",
+      "text": "# 负责人确认｜虚构演示",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:2",
+      "document_id": "D9d30a965d5",
+      "sha256": "926bf001ae41e15cae0c619a980a20c591a9d5f8a0c5373a64094b4eab08ba93",
+      "locator": "line:2",
+      "text": "以下均为模拟项目的内部设定，不是真实经营记录。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:3",
+      "document_id": "D9d30a965d5",
+      "sha256": "d15ccd354d606995ffff25bed1eb93b9ba2218fe4d407e139c4af1601fd100f9",
+      "locator": "line:3",
+      "text": "最终确认：预算上限6万元，试行周期4周，只测试南昌。以上明确替代简报中的9万元和多城市讨论。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:4",
+      "document_id": "D9d30a965d5",
+      "sha256": "269647849a053c00cf41b48481fb6cb1143c7ddd4b4c5b1dd4e0664b04908417",
+      "locator": "line:4",
+      "text": "资源：两家合作办公空间允许安排试饮；自有小红书账号可发布内容。合作方名称与流量数据未提供。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:5",
+      "document_id": "D9d30a965d5",
+      "sha256": "91d931383074eb06a174de9ca25ec56fd366af33bc084bc2bc3d24c380c810d0",
+      "locator": "line:5",
+      "text": "价格：桂花乌龙每盒建议售价29元，茉莉绿茶每盒建议售价26元；都只是待确认的试行价格，尚未正式销售。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:6",
+      "document_id": "D9d30a965d5",
+      "sha256": "17304b0ce1556fc763e99a7b16ca257d1d00fa36ef649a547b44d9d7c6cc956c",
+      "locator": "line:6",
+      "text": "职责：品牌负责人确认产品与预算；运营负责试饮、内容和记录；设计负责包装信息、活动物料和内容模板。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:7",
+      "document_id": "D9d30a965d5",
+      "sha256": "80bb54dd5b5cda9be77a17433ad2d119924ecf9a19cb78b197adba6786e3c76e",
+      "locator": "line:7",
+      "text": "模拟访谈样本共120人，每人只选一个场景；工作日下午54人、午餐之后33人、居家休息21人、通勤途中12人。该便利样本不能外推总体市场。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:8",
+      "document_id": "D9d30a965d5",
+      "sha256": "593d7334e00cdc106d21fadd8140e23fa6fe190304385109fd4dcd8ba1224017",
+      "locator": "line:8",
+      "text": "模拟访谈原话甲：下午想喝点有味道的，但不想再点一杯很甜的饮料。",
+      "kind": "text"
+    },
+    {
+      "id": "D9d30a965d5:line:9",
+      "document_id": "D9d30a965d5",
+      "sha256": "afd85a20ab4ce3d360449cfc9ade2e379210102df7878dad6d3e3ee9876dedaf",
+      "locator": "line:9",
+      "text": "模拟访谈原话乙：不要让我为喝一杯茶准备一桌工具。",
+      "kind": "text"
+    },
+    {
+      "id": "D6e35a5c860:row:1",
+      "document_id": "D6e35a5c860",
+      "sha256": "1b9c57579066417da1a36139b6246a901ab2ba8f367cd562761fa81532b89e41",
+      "locator": "row:1",
+      "text": "项目 | 金额元 | 用途",
+      "cells": [
+        "项目",
+        "金额元",
+        "用途"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "D6e35a5c860:row:2",
+      "document_id": "D6e35a5c860",
+      "sha256": "560dad80912e7b39f8942688f90c9d41c6edf3c5f04d2a6c6094605075bd5067",
+      "locator": "row:2",
+      "text": "试饮执行 | 15000 | 样品与现场执行",
+      "cells": [
+        "试饮执行",
+        "15000",
+        "样品与现场执行"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "D6e35a5c860:row:3",
+      "document_id": "D6e35a5c860",
+      "sha256": "688faca441f53fdbfdc4cb6e6421129320f8f7b7a51fc4df0e3a7f87d69d65c8",
+      "locator": "row:3",
+      "text": "内容素材 | 16000 | 拍摄与图文制作",
+      "cells": [
+        "内容素材",
+        "16000",
+        "拍摄与图文制作"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "D6e35a5c860:row:4",
+      "document_id": "D6e35a5c860",
+      "sha256": "023af700db665bd5157872a2059700f6dffbc7dd9b0cc8772651630c36612cac",
+      "locator": "row:4",
+      "text": "包装打样 | 9000 | 验证信息与印刷效果",
+      "cells": [
+        "包装打样",
+        "9000",
+        "验证信息与印刷效果"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "D6e35a5c860:row:5",
+      "document_id": "D6e35a5c860",
+      "sha256": "b75c4e663daeb6c96418b65fb1e6f172ca2430c5842f72c0675557115379a445",
+      "locator": "row:5",
+      "text": "渠道测试 | 12000 | 小范围内容与触达实验",
+      "cells": [
+        "渠道测试",
+        "12000",
+        "小范围内容与触达实验"
+      ],
+      "kind": "table-row"
+    },
+    {
+      "id": "D6e35a5c860:row:6",
+      "document_id": "D6e35a5c860",
+      "sha256": "646d485cf7a5fc2a938d330739ccbcf7a497c939c461f528b94fada2794ba013",
+      "locator": "row:6",
+      "text": "预备费用 | 8000 | 应对试行调整",
+      "cells": [
+        "预备费用",
+        "8000",
+        "应对试行调整"
+      ],
+      "kind": "table-row"
+    }
+  ],
+  "failures": [],
+  "limits": [
+    "Extraction is not factual verification.",
+    "Image text, charts, tracked revisions and merged-cell semantics need host review.",
+    "Chunk IDs follow name/location; inserted paragraphs may shift IDs."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "baocanmou-plan-to-ppt",
+  "version": "1.2.0",
+  "description": "策划资料变PPT：谋术鸣、来源核对与可编辑提案 / Planning materials into editable presentations.",
+  "author": {
+    "name": "包参谋 BaoCanMou · 易慧庭 Yi Huiting",
+    "url": "https://www.bcmsj.com"
+  },
+  "homepage": "https://github.com/yht0912/baocanmou-plan-to-ppt",
+  "repository": "https://github.com/yht0912/baocanmou-plan-to-ppt",
+  "license": "MIT",
+  "keywords": [
+    "presentations",
+    "pptx",
+    "brand-strategy",
+    "planning",
+    "agent-skills",
+    "baocanmou",
+    "moushuming"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "包参谋·策划资料变 PPT",
+    "shortDescription": "Plans into Presentations · 有据、有序、可修改",
+    "longDescription": "把简报、会议记录和数据整理为可讲述、可继续修改的PPTX。品牌任务承接谋术鸣，区分事实、建议与未知；附真实12页虚构示范与中英文文档。PPTX generation requires the host’s presentation capability.",
+    "developerName": "包参谋 BaoCanMou",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/yht0912/baocanmou-plan-to-ppt",
+    "privacyPolicyURL": "https://github.com/yht0912/baocanmou-plan-to-ppt/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/yht0912/baocanmou-plan-to-ppt/blob/main/NOTICE.md",
+    "defaultPrompt": [
+      "把这些策划资料整理成可编辑PPT，保留事实与建议的区别。",
+      "Turn my planning materials into an editable presentation.",
+      "预算改了，先找出受影响页面，再局部修改。"
+    ],
+    "brandColor": "#183E34",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon-dark.png",
+    "screenshots": [
+      "./assets/cover-bilingual.png",
+      "./assets/demo-method.png",
+      "./assets/demo-budget.png"
+    ]
+  }
+}
