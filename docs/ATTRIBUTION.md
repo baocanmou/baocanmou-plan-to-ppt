@@ -6,7 +6,6 @@
 | 发起与产品方向 / Initiator and product direction | 易慧庭 / Yi Huiting |
 | 方法 / Method | 谋术鸣® 品牌定位设计模型｜易慧庭·包参谋 |
 | English method credit | MouShuMing® Brand Positioning and Design Model · Yi Huiting · BaoCanMou |
-| 制作方式 / Production | AI辅助代码、文档、图片和示范制作 / AI-assisted code, documentation, images and demo production |
 
 仓库及其复制版本保留[MIT版权和许可](../LICENSE)以及[NOTICE范围](../NOTICE.md)。二次开发请说明改动，不能以原作者名义声称其认可你的版本。默认不会强制向客户提案植入包参谋广告。
 

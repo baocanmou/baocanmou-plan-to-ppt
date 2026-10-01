@@ -127,7 +127,7 @@ Before release, run `python3 scripts/verify_release.py` from the repository root
 
 Workflow code and general documentation are released under the [MIT license](LICENSE). The MouShuMing method summaries (`references/moushuming.md`, `moushuming.en.md`) and the pre-existing theory they reference are excluded from the MIT grant; the original model text, diagrams, name and authorship are not transferred or relicensed. The tea, packaging and project cover images in the sample are AI generated; the sample PDF embeds Source Han Sans CN subsets with the OFL notice included. See [NOTICE](NOTICE.md) and [Attribution](docs/ATTRIBUTION.md) for details.
 
-AI assisted with the code, documentation and sample; the sample is not evidence of client results or industry ranking.
+The sample is not evidence of client results or industry ranking.
 
 ## Other BaoCanMou open-source projects
 

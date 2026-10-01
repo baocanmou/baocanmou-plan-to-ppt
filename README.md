@@ -127,7 +127,7 @@ git clone https://gitee.com/baocanmou/baocanmou-plan-to-ppt.git
 
 工作流代码和通用文档按 [MIT](LICENSE) 开源。谋术鸣应用摘要（`references/moushuming.md`、`moushuming.en.md`）及其引用的原有理论内容不纳入 MIT 授权，模型原文、原图、名称与作者身份没有转让或重新许可。示范中的茶饮、包装和项目封面为 AI 生成图片；示范 PDF 嵌入 Source Han Sans CN 字体子集，附 OFL 许可。完整说明见 [NOTICE](NOTICE.md) 和 [署名说明](docs/ATTRIBUTION.md)。
 
-AI 参与了代码、文档和示范制作；示范不代表真实客户效果或行业排名。
+示范不代表真实客户效果或行业排名。
 
 ## 包参谋其他开源项目
 
