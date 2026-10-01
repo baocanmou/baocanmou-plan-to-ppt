@@ -14,7 +14,7 @@ An assistant with Skills support, file access and Python 3.10+. Actual PPTX gene
 ## 完整仓库 / Full repository
 
 ```bash
-git clone https://github.com/yht0912/baocanmou-plan-to-ppt.git
+git clone https://github.com/baocanmou/baocanmou-plan-to-ppt.git
 cd baocanmou-plan-to-ppt
 python3 scripts/install_skill.py --host codex --dry-run
 python3 scripts/install_skill.py --host codex

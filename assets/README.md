@@ -6,7 +6,9 @@ These assets support project pages and tutorials. PNG files are sRGB screen asse
 
 | 文件 / File | 像素 / Pixels | 用途 / Role |
 |---|---|---|
+| [cover.png](cover.png) | 1280 × 640 | README顶部封面 / README header cover |
 | [cover-bilingual.png](cover-bilingual.png) | 1536 × 1024 | 项目概念封面 / Conceptual project cover |
+| [example-pages.png](example-pages.png) | 1552 × 922 | 示范PDF第1、2、3、9页拼图 / Slides 1, 2, 3 and 9 rendered from the sample PDF |
 | [demo-budget.png](demo-budget.png) | 1280 × 720 | 实际预算页 / Actual budget slide |
 | [demo-chart.png](demo-chart.png) | 1280 × 720 | 实际图表页 / Actual chart slide |
 | [demo-cover.png](demo-cover.png) | 1280 × 720 | 实际示范封面 / Actual sample cover |
@@ -14,6 +16,8 @@ These assets support project pages and tutorials. PNG files are sRGB screen asse
 | [demo-method.png](demo-method.png) | 1280 × 720 | 实际方法页 / Actual method slide |
 | [icon-dark.png](icon-dark.png) | 512 × 512 | 深色界面用图标 / Dark-interface icon |
 | [icon.png](icon.png) | 512 × 512 | 项目图标 / Project icon |
+| [workflow.zh.svg](workflow.zh.svg) | 1200 × 440 | 中文工作流程图 / Chinese workflow diagram |
+| [workflow.en.svg](workflow.en.svg) | 1200 × 440 | 英文工作流程图 / English workflow diagram |
 
 - `icon.svg`、`icon-dark.svg`为图标矢量源：文档与演示页的组合符号，不替代包参谋正式品牌Logo。SVG icon sources are project symbols, not replacement BaoCanMou brand logos.
 - 封面由OpenAI内置图像生成工具生成，提示词见[source/generation-prompts.md](source/generation-prompts.md)。Cover generation provenance and prompt are included.

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif" role="img" aria-label="策划资料变 PPT · 工作流程">
+<title>策划资料变 PPT · 工作流程</title>
+<rect x="0" y="0" width="1200" height="440" rx="24" fill="#faf8f3" stroke="#e4e0d5" stroke-width="2"/>
+<text x="41" y="62" font-size="26" font-weight="700" fill="#111111">策划资料变 PPT · 工作流程</text>
+<text x="41" y="92" font-size="15" fill="#686860">脚本只核对可计算的关系；事实判断、策划取舍和视觉验收仍由人完成</text>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#686860"/></marker></defs>
+<rect x="41" y="120" width="168" height="190" rx="14" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<circle cx="67" cy="150" r="14" fill="#111111"/><text x="67" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="57" y="196" font-size="19" font-weight="700" fill="#111111">读取资料</text>
+<text x="57" y="224" font-size="13.5" fill="#111111" opacity="0.82">简报、访谈、表格</text>
+<text x="57" y="244" font-size="13.5" fill="#111111" opacity="0.82">逐段记录出处</text>
+<text x="57" y="292" font-size="13" fill="#686860" font-family="SFMono-Regular, Menlo, Consolas, monospace">intake.py</text>
+<line x1="212" y1="215.0" x2="228" y2="215.0" stroke="#686860" stroke-width="2" marker-end="url(#a)"/>
+<rect x="231" y="120" width="168" height="190" rx="14" fill="#ffd900" stroke="#111111" stroke-width="2"/>
+<circle cx="257" cy="150" r="14" fill="#111111"/><text x="257" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="247" y="196" font-size="19" font-weight="700" fill="#111111">定听众与结构</text>
+<text x="247" y="224" font-size="13.5" fill="#111111" opacity="0.82">品牌任务按谋术鸣</text>
+<text x="247" y="244" font-size="13.5" fill="#111111" opacity="0.82">事实与建议分开</text>
+<text x="247" y="292" font-size="13" fill="#686860" font-family="SFMono-Regular, Menlo, Consolas, monospace">plan.json</text>
+<line x1="402" y1="215.0" x2="418" y2="215.0" stroke="#686860" stroke-width="2" marker-end="url(#a)"/>
+<rect x="421" y="120" width="168" height="190" rx="14" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<circle cx="447" cy="150" r="14" fill="#111111"/><text x="447" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="437" y="196" font-size="19" font-weight="700" fill="#111111">核对计划</text>
+<text x="437" y="224" font-size="13.5" fill="#111111" opacity="0.82">来源、缺项、数值</text>
+<text x="437" y="244" font-size="13.5" fill="#111111" opacity="0.82">与类别是否对得上</text>
+<text x="437" y="292" font-size="13" fill="#686860" font-family="SFMono-Regular, Menlo, Consolas, monospace">plancheck.py</text>
+<line x1="592" y1="215.0" x2="608" y2="215.0" stroke="#686860" stroke-width="2" marker-end="url(#a)"/>
+<rect x="611" y="120" width="168" height="190" rx="14" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<circle cx="637" cy="150" r="14" fill="#111111"/><text x="637" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="627" y="196" font-size="19" font-weight="700" fill="#111111">生成 PPTX</text>
+<text x="627" y="224" font-size="13.5" fill="#111111" opacity="0.82">宿主演示工具制作</text>
+<text x="627" y="244" font-size="13.5" fill="#111111" opacity="0.82">文字表格图表原生</text>
+<text x="627" y="292" font-size="13" fill="#686860" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif">宿主工具</text>
+<line x1="782" y1="215.0" x2="798" y2="215.0" stroke="#686860" stroke-width="2" marker-end="url(#a)"/>
+<rect x="801" y="120" width="168" height="190" rx="14" fill="#ffd900" stroke="#111111" stroke-width="2"/>
+<circle cx="827" cy="150" r="14" fill="#111111"/><text x="827" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="817" y="196" font-size="19" font-weight="700" fill="#111111">检查成品</text>
+<text x="817" y="224" font-size="13.5" fill="#111111" opacity="0.82">核对 PPTX 结构</text>
+<text x="817" y="244" font-size="13.5" fill="#111111" opacity="0.82">逐页渲染看图</text>
+<text x="817" y="292" font-size="13" fill="#686860" font-family="SFMono-Regular, Menlo, Consolas, monospace">pptxcheck.py</text>
+<line x1="972" y1="215.0" x2="988" y2="215.0" stroke="#686860" stroke-width="2" marker-end="url(#a)"/>
+<rect x="991" y="120" width="168" height="190" rx="14" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<circle cx="1017" cy="150" r="14" fill="#111111"/><text x="1017" y="155" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="1007" y="196" font-size="19" font-weight="700" fill="#111111">交付</text>
+<text x="1007" y="224" font-size="13.5" fill="#111111" opacity="0.82">PPTX 与所需 PDF</text>
+<text x="1007" y="244" font-size="13.5" fill="#111111" opacity="0.82">过程记录留工作区</text>
+<path d="M1075.0,314 V360 H315.0 V320" fill="none" stroke="#686860" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#a)"/>
+<rect x="339.0" y="344" width="712.0" height="32" rx="16" fill="#faf8f3"/>
+<text x="695.0" y="365" font-size="14" fill="#111111" text-anchor="middle">改稿：重新提取来源 → impact.py 列出直接受影响的页面 → 局部修改，保留已确认页面 → 再次检查</text>
+</svg>

@@ -77,4 +77,4 @@ python3 -B -m unittest discover -s tests -v
 
 作者身份保留在项目说明与示范中；应用谋术鸣时在方法页、末页或随附说明保留方法署名，不强制加广告或逐页水印。欢迎提交脱敏的问题案例和改进建议。工作流代码与通用说明按 MIT 许可提供，谋术鸣原有理论资产及素材范围见 [NOTICE](NOTICE.md)。
 
-[English project guide](https://github.com/yht0912/baocanmou-plan-to-ppt/blob/main/README.en.md) · [English execution](references/workflow.en.md)
+[English project guide](https://github.com/baocanmou/baocanmou-plan-to-ppt/blob/main/README.en.md) · [English execution](references/workflow.en.md)

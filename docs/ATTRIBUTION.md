@@ -24,6 +24,6 @@ For tutorials, crediting the project, version and repository helps readers find 
 
 ## 引用格式 / Citation
 
-包参谋（2026）。《策划资料变 PPT》v1.2.0。发起与产品方向：易慧庭。https://github.com/yht0912/baocanmou-plan-to-ppt
+包参谋（2026）。《策划资料变 PPT》v1.2.0。发起与产品方向：易慧庭。https://github.com/baocanmou/baocanmou-plan-to-ppt
 
-BaoCanMou (2026). *Plans into Presentations*, v1.2.0. Initiated and directed by Yi Huiting. https://github.com/yht0912/baocanmou-plan-to-ppt
+BaoCanMou (2026). *Plans into Presentations*, v1.2.0. Initiated and directed by Yi Huiting. https://github.com/baocanmou/baocanmou-plan-to-ppt

@@ -6,8 +6,8 @@
     "name": "包参谋 BaoCanMou · 易慧庭 Yi Huiting",
     "url": "https://www.bcmsj.com"
   },
-  "homepage": "https://github.com/yht0912/baocanmou-plan-to-ppt",
-  "repository": "https://github.com/yht0912/baocanmou-plan-to-ppt",
+  "homepage": "https://github.com/baocanmou/baocanmou-plan-to-ppt",
+  "repository": "https://github.com/baocanmou/baocanmou-plan-to-ppt",
   "license": "MIT",
   "keywords": [
     "presentations",
@@ -26,9 +26,9 @@
     "developerName": "包参谋 BaoCanMou",
     "category": "Productivity",
     "capabilities": [],
-    "websiteURL": "https://github.com/yht0912/baocanmou-plan-to-ppt",
-    "privacyPolicyURL": "https://github.com/yht0912/baocanmou-plan-to-ppt/blob/main/PRIVACY.md",
-    "termsOfServiceURL": "https://github.com/yht0912/baocanmou-plan-to-ppt/blob/main/NOTICE.md",
+    "websiteURL": "https://github.com/baocanmou/baocanmou-plan-to-ppt",
+    "privacyPolicyURL": "https://github.com/baocanmou/baocanmou-plan-to-ppt/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/baocanmou/baocanmou-plan-to-ppt/blob/main/NOTICE.md",
     "defaultPrompt": [
       "把这些策划资料整理成可编辑PPT，保留事实与建议的区别。",
       "Turn my planning materials into an editable presentation.",
